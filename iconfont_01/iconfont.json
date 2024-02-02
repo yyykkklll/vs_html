@@ -1,0 +1,37 @@
+{
+  "id": "4427941",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "39138424",
+      "name": "地方标准管理",
+      "font_class": "difangbiaozhunguanli",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "39138425",
+      "name": "基层监管联动",
+      "font_class": "jicengjianguanliandong",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "39138427",
+      "name": "消费维权公示",
+      "font_class": "xiaofeiweiquangongshi",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "39138428",
+      "name": "信用分类监管",
+      "font_class": "xinyongfenleijianguan",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    }
+  ]
+}

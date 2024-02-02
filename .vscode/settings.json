@@ -1,0 +1,25 @@
+{
+  "files.autoSave": "afterDelay",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "productIconThemes",
+  "editor.mouseWheelZoom": true,
+  "editor.fontSize": 22,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 3,
+  "editor.renderLineHighlight": "all",
+  "editor.fontFamily": "Monaco, '苹方-简', monospace",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "Hack, '苹方-简', monospace",
+  "extensions.ignoreRecommendations": true,
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Snazzy Plus",
+  "code-runner.runInTerminal": true,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.tokenColorCustomizations": {
+    "comments": "#FF69B4"
+  }
+}
